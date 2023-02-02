@@ -10,7 +10,7 @@ Universität Wien / 2022W 136010-1 Introduction to DH Tools and Methods
 
 2.) What were certain issues that people mentioned most often in their tweets? 
 
-3.) Where certain issues mentioned more often in connection to certain president candidate? 
+3.) Can I visualize data from the dataframe? 
 
 # Data description: 
 
