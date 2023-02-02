@@ -14,7 +14,8 @@ Universität Wien / 2022W 136010-1 Introduction to DH Tools and Methods
 
 # Data description: 
 
-CSV file provided in the course: contains tweet data from the US presidential election 2016 (including user names, dates, place etc) 
+CSV file provided in the course: contains tweet data from the US presidential election 2016 concerning Republican candidates
+(including user names, dates, place etc) 
 
 # Methodology used: 
 
